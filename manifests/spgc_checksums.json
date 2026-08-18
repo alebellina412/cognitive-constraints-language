@@ -1,0 +1,21 @@
+{
+  "record": "2422561",
+  "doi": "10.5281/zenodo.2422561",
+  "version": "SPGC-2018-07-18",
+  "note": "Size and MD5 of the three SPGC bulk files as used by this paper. Checked by `python src/download_bulk.py --check`. SPGC is the corpus behind every main-text figure, so it is pinned the way COREFL and PARSEME are: COREFL by manifests/corefl_manifest.json, PARSEME by a release commit in docs/DATA.md. These MD5s are the ones Zenodo publishes for record 2422561; if yours differ you do not have the release the paper used, whatever the file names say.",
+  "algorithm": "md5",
+  "files": {
+    "SPGC-metadata-2018-07-18.csv": {
+      "bytes": 10016560,
+      "md5": "a2d5f325f13846cbec2fd21d982b4ef4"
+    },
+    "SPGC-counts-2018-07-18.zip": {
+      "bytes": 1480762709,
+      "md5": "bccfbdf00caa906d84344cf335cc96ee"
+    },
+    "SPGC-tokens-2018-07-18.zip": {
+      "bytes": 6378753708,
+      "md5": "13e16ae2c8350a0b7407a8f7a51e8a7e"
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+ "lang": "en",
+ "n_books": 2701,
+ "n_books_missing": 0,
+ "n_tokens": 163240840,
+ "phrases": [
+  {
+   "concept": "water",
+   "surface": "water",
+   "tokens": [
+    "water"
+   ],
+   "k": 1,
+   "count": 71279
+  },
+  {
+   "concept": "bottle",
+   "surface": "bottle",
+   "tokens": [
+    "bottle"
+   ],
+   "k": 1,
+   "count": 4945
+  },
+  {
+   "concept": "bus",
+   "surface": "bus",
+   "tokens": [
+    "bus"
+   ],
+   "k": 1,
+   "count": 424
+  },
+  {
+   "concept": "water bottle",
+   "surface": "water bottle",
+   "tokens": [
+    "water",
+    "bottle"
+   ],
+   "k": 2,
+   "count": 25
+  },
+  {
+   "concept": "railway station",
+   "surface": "railway station",
+   "tokens": [
+    "railway",
+    "station"
+   ],
+   "k": 2,
+   "count": 546
+  },
+  {
+   "concept": "post office",
+   "surface": "post office",
+   "tokens": [
+    "post",
+    "office"
+   ],
+   "k": 2,
+   "count": 1344
+  },
+  {
+   "concept": "dining room",
+   "surface": "dining room",
+   "tokens": [
+    "dining",
+    "room"
+   ],
+   "k": 2,
+   "count": 419
+  },
+  {
+   "concept": "bedroom",
+   "surface": "bedroom",
+   "tokens": [
+    "bedroom"
+   ],
+   "k": 1,
+   "count": 2660
+  },
+  {
+   "concept": "birthday",
+   "surface": "birthday",
+   "tokens": [
+    "birthday"
+   ],
+   "k": 1,
+   "count": 1967
+  },
+  {
+   "concept": "handkerchief",
+   "surface": "handkerchief",
+   "tokens": [
+    "handkerchief"
+   ],
+   "k": 1,
+   "count": 3167
+  },
+  {
+   "concept": "looking glass",
+   "surface": "looking glass",
+   "tokens": [
+    "looking",
+    "glass"
+   ],
+   "k": 2,
+   "count": 59
+  },
+  {
+   "concept": "churchyard",
+   "surface": "churchyard",
+   "tokens": [
+    "churchyard"
+   ],
+   "k": 1,
+   "count": 1577
+  },
+  {
+   "concept": "sunrise",
+   "surface": "sunrise",
+   "tokens": [
+    "sunrise"
+   ],
+   "k": 1,
+   "count": 1535
+  },
+  {
+   "concept": "moonlight",
+   "surface": "moonlight",
+   "tokens": [
+    "moonlight"
+   ],
+   "k": 1,
+   "count": 3288
+  },
+  {
+   "concept": "steam boat",
+   "surface": "steamboat",
+   "tokens": [
+    "steamboat"
+   ],
+   "k": 1,
+   "count": 946
+  },
+  {
+   "concept": "fireplace",
+   "surface": "fireplace",
+   "tokens": [
+    "fireplace"
+   ],
+   "k": 1,
+   "count": 1430
+  },
+  {
+   "concept": "armchair",
+   "surface": "armchair",
+   "tokens": [
+    "armchair"
+   ],
+   "k": 1,
+   "count": 449
+  },
+  {
+   "concept": "lighthouse",
+   "surface": "lighthouse",
+   "tokens": [
+    "lighthouse"
+   ],
+   "k": 1,
+   "count": 564
+  },
+  {
+   "concept": "schoolmaster",
+   "surface": "schoolmaster",
+   "tokens": [
+    "schoolmaster"
+   ],
+   "k": 1,
+   "count": 1439
+  },
+  {
+   "concept": "coachman",
+   "surface": "coachman",
+   "tokens": [
+    "coachman"
+   ],
+   "k": 1,
+   "count": 1392
+  },
+  {
+   "concept": "glass of wine",
+   "surface": "glass of wine",
+   "tokens": [
+    "glass",
+    "of",
+    "wine"
+   ],
+   "k": 3,
+   "count": 343
+  },
+  {
+   "concept": "new year",
+   "surface": "new year",
+   "tokens": [
+    "new",
+    "year"
+   ],
+   "k": 2,
+   "count": 1117
+  },
+  {
+   "concept": "horse race",
+   "surface": "horse race",
+   "tokens": [
+    "horse",
+    "race"
+   ],
+   "k": 2,
+   "count": 17
+  },
+  {
+   "concept": "bus stop",
+   "surface": "bus stop",
+   "tokens": [
+    "bus",
+    "stop"
+   ],
+   "k": 2,
+   "count": 3
+  },
+  {
+   "concept": "motor car",
+   "surface": "motor car",
+   "tokens": [
+    "motor",
+    "car"
+   ],
+   "k": 2,
+   "count": 191
+  },
+  {
+   "concept": "telephone",
+   "surface": "telephone",
+   "tokens": [
+    "telephone"
+   ],
+   "k": 1,
+   "count": 3674
+  }
+ ]
+}

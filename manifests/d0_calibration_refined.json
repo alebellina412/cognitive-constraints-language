@@ -1,0 +1,49 @@
+{
+  "_comment": [
+    "The deep D0 calibration: a grid narrowed onto each population's loss",
+    "minimum and run over six seeds, against the two seeds of the wide grid in",
+    "d0_calibration.json. Passed to src/calibrate_d0.py with",
+    "--config manifests/d0_calibration_refined.json --tag refined.",
+    "",
+    "The two sweeps answer different questions and neither replaces the other.",
+    "The wide grid spans 200..26,000 and records rstar_sim, so it is the one",
+    "that feeds Figure S5 and the crossover criterion -- for the learners that",
+    "criterion selects D0 = 275, which a grid starting at 800 could not reach.",
+    "This one resolves the loss minimum and its uncertainty: six seeds instead",
+    "of two, which is what stops the competitive range from collapsing onto a",
+    "single grid point.",
+    "",
+    "Refining does not sharpen the estimate. Going from the wide grid to this",
+    "one leaves the native answer at D0 = 9,366 with the same range",
+    "[6,664, 13,163]: the loss varies by 0.002 across a factor of 1.7 in D0,",
+    "while the seed-to-seed spread is five times larger. What the extra seeds",
+    "buy is an honest interval, not another digit.",
+    "",
+    "Only keys under 'model' and 'calibration' are read; this key is ignored."
+  ],
+  "model": {
+    "N0": 1,
+    "rho": 1.0,
+    "nu": 1.0,
+    "p": 0.5
+  },
+  "calibration": {
+    "T": 100000000,
+    "d0_grid": {
+      "learner": [800, 3200, 12],
+      "native": [4000, 26000, 12]
+    },
+    "d0_values": [],
+    "seeds": [101, 202, 303, 404, 505, 606],
+    "weights": {
+      "heaps": 0.5,
+      "zipf": 0.5
+    },
+    "heaps_points": 80,
+    "heaps_spacing": "log",
+    "rank_min": 10,
+    "rank_max": 5000,
+    "rank_points": 80,
+    "rank_spacing": "log"
+  }
+}

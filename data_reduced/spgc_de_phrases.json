@@ -1,0 +1,243 @@
+{
+ "lang": "de",
+ "n_books": 1592,
+ "n_books_missing": 54,
+ "n_tokens": 72111282,
+ "phrases": [
+  {
+   "concept": "water",
+   "surface": "Wasser",
+   "tokens": [
+    "wasser"
+   ],
+   "k": 1,
+   "count": 30855
+  },
+  {
+   "concept": "bottle",
+   "surface": "Flasche",
+   "tokens": [
+    "flasche"
+   ],
+   "k": 1,
+   "count": 2223
+  },
+  {
+   "concept": "bus",
+   "surface": "Bus",
+   "tokens": [
+    "bus"
+   ],
+   "k": 1,
+   "count": 12
+  },
+  {
+   "concept": "water bottle",
+   "surface": "Wasserflasche",
+   "tokens": [
+    "wasserflasche"
+   ],
+   "k": 1,
+   "count": 36
+  },
+  {
+   "concept": "railway station",
+   "surface": "Bahnhof",
+   "tokens": [
+    "bahnhof"
+   ],
+   "k": 1,
+   "count": 1581
+  },
+  {
+   "concept": "post office",
+   "surface": "Postamt",
+   "tokens": [
+    "postamt"
+   ],
+   "k": 1,
+   "count": 121
+  },
+  {
+   "concept": "dining room",
+   "surface": "Esszimmer",
+   "tokens": [
+    "esszimmer"
+   ],
+   "k": 1,
+   "count": 39
+  },
+  {
+   "concept": "bedroom",
+   "surface": "Schlafzimmer",
+   "tokens": [
+    "schlafzimmer"
+   ],
+   "k": 1,
+   "count": 1067
+  },
+  {
+   "concept": "birthday",
+   "surface": "Geburtstag",
+   "tokens": [
+    "geburtstag"
+   ],
+   "k": 1,
+   "count": 757
+  },
+  {
+   "concept": "handkerchief",
+   "surface": "Taschentuch",
+   "tokens": [
+    "taschentuch"
+   ],
+   "k": 1,
+   "count": 865
+  },
+  {
+   "concept": "looking glass",
+   "surface": "Spiegel",
+   "tokens": [
+    "spiegel"
+   ],
+   "k": 1,
+   "count": 3905
+  },
+  {
+   "concept": "churchyard",
+   "surface": "Kirchhof",
+   "tokens": [
+    "kirchhof"
+   ],
+   "k": 1,
+   "count": 654
+  },
+  {
+   "concept": "sunrise",
+   "surface": "Sonnenaufgang",
+   "tokens": [
+    "sonnenaufgang"
+   ],
+   "k": 1,
+   "count": 669
+  },
+  {
+   "concept": "moonlight",
+   "surface": "Mondschein",
+   "tokens": [
+    "mondschein"
+   ],
+   "k": 1,
+   "count": 801
+  },
+  {
+   "concept": "steam boat",
+   "surface": "Dampfschiff",
+   "tokens": [
+    "dampfschiff"
+   ],
+   "k": 1,
+   "count": 254
+  },
+  {
+   "concept": "fireplace",
+   "surface": "Kamin",
+   "tokens": [
+    "kamin"
+   ],
+   "k": 1,
+   "count": 867
+  },
+  {
+   "concept": "armchair",
+   "surface": "Sessel",
+   "tokens": [
+    "sessel"
+   ],
+   "k": 1,
+   "count": 1452
+  },
+  {
+   "concept": "lighthouse",
+   "surface": "Leuchtturm",
+   "tokens": [
+    "leuchtturm"
+   ],
+   "k": 1,
+   "count": 238
+  },
+  {
+   "concept": "schoolmaster",
+   "surface": "Schulmeister",
+   "tokens": [
+    "schulmeister"
+   ],
+   "k": 1,
+   "count": 1137
+  },
+  {
+   "concept": "coachman",
+   "surface": "Kutscher",
+   "tokens": [
+    "kutscher"
+   ],
+   "k": 1,
+   "count": 1810
+  },
+  {
+   "concept": "glass of wine",
+   "surface": "Glas Wein",
+   "tokens": [
+    "glas",
+    "wein"
+   ],
+   "k": 2,
+   "count": 291
+  },
+  {
+   "concept": "new year",
+   "surface": "Neujahr",
+   "tokens": [
+    "neujahr"
+   ],
+   "k": 1,
+   "count": 276
+  },
+  {
+   "concept": "horse race",
+   "surface": "Pferderennen",
+   "tokens": [
+    "pferderennen"
+   ],
+   "k": 1,
+   "count": 50
+  },
+  {
+   "concept": "bus stop",
+   "surface": "Bushaltestelle",
+   "tokens": [
+    "bushaltestelle"
+   ],
+   "k": 1,
+   "count": 0
+  },
+  {
+   "concept": "motor car",
+   "surface": "Automobil",
+   "tokens": [
+    "automobil"
+   ],
+   "k": 1,
+   "count": 587
+  },
+  {
+   "concept": "telephone",
+   "surface": "Telefon",
+   "tokens": [
+    "telefon"
+   ],
+   "k": 1,
+   "count": 22
+  }
+ ]
+}

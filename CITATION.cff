@@ -1,0 +1,91 @@
+cff-version: 1.2.0
+title: >-
+  Cognitive constraints and efficiency in language statistics — reproduction code
+message: >-
+  If you use this software or the reduced data it contains, please cite the
+  accompanying paper. Please also cite the corpora you use (SPGC, COREFL,
+  PARSEME); their references are listed in docs/DATA.md.
+type: software
+authors:
+  - given-names: Alessandro
+    family-names: Bellina
+    email: alessandro.bellina@cref.it
+    affiliation: >-
+      Centro Ricerche Enrico Fermi, Rome, Italy; Sony Computer Science
+      Laboratories - Rome; Sapienza University of Rome
+  - given-names: Vito D. P.
+    family-names: Servedio
+    affiliation: Complexity Science Hub, Vienna, Austria
+repository-code: https://github.com/alebellina412/cognitive-constraints-language
+version: 1.0.0
+# Code is MIT; the derived numeric data in data_reduced/ is CC-BY-4.0, and the
+# underlying corpora keep their own licences. See LICENSE and docs/DATA.md.
+license:
+  - MIT
+  - CC-BY-4.0
+preferred-citation:
+  type: article
+  title: >-
+    How the Interplay Between Cognitive Constraints and Efficiency Shapes
+    Language Statistics
+  authors:
+    - given-names: Alessandro
+      family-names: Bellina
+    - given-names: Vito D. P.
+      family-names: Servedio
+  journal: Chaos, Solitons & Fractals
+references:
+  - type: data
+    title: Standardized Project Gutenberg Corpus (SPGC-2018-07-18)
+    authors:
+      - given-names: Martin
+        family-names: Gerlach
+      - given-names: Francesc
+        family-names: Font-Clos
+    doi: 10.5281/zenodo.2422561
+  - type: article
+    title: >-
+      A Standardized Project Gutenberg Corpus for Statistical Analysis of
+      Natural Language and Quantitative Linguistics
+    authors:
+      - given-names: Martin
+        family-names: Gerlach
+      - given-names: Francesc
+        family-names: Font-Clos
+    journal: Entropy
+    volume: 22
+    issue: 1
+    start: 126
+    year: 2020
+    doi: 10.3390/e22010126
+  - type: generic
+    title: >-
+      Designing and compiling a learner corpus of written and spoken narratives:
+      COREFL
+    authors:
+      - given-names: Cristóbal
+        family-names: Lozano
+      - given-names: Ana
+        family-names: Díaz-Negrillo
+      - given-names: Marcus
+        family-names: Callies
+    year: 2020
+  - type: conference-paper
+    title: >-
+      Edition 1.1 of the PARSEME Shared Task on Automatic Identification of
+      Verbal Multiword Expressions
+    authors:
+      - given-names: Carlos
+        family-names: Ramisch
+    year: 2018
+    url: https://aclanthology.org/W18-4925/
+  # PARSEME asks for the methodology paper alongside the release paper above.
+  - type: conference-paper
+    title: >-
+      The PARSEME Shared Task on Automatic Identification of Verbal Multiword
+      Expressions
+    authors:
+      - given-names: Agata
+        family-names: Savary
+    year: 2017
+    doi: 10.18653/v1/W17-1704

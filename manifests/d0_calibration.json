@@ -1,0 +1,39 @@
+{
+  "_comment": [
+    "The D0 calibration grid used for the published results. Passed to",
+    "src/calibrate_d0.py with --config; every value here overrides the script's",
+    "DEFAULTS, which sweep a wider grid on three seeds and land one grid point",
+    "away (native 9,902 instead of 9,366).",
+    "",
+    "d0_grid is deliberately empty: d0_grid() takes the UNION of the expanded",
+    "per-population ranges and the explicit d0_values, so leaving the default",
+    "ranges in place would add back the 30-point sweep.",
+    "",
+    "Only keys under 'model' and 'calibration' are read; this key is ignored."
+  ],
+  "model": {
+    "N0": 1,
+    "rho": 1.0,
+    "nu": 1.0,
+    "p": 0.5
+  },
+  "calibration": {
+    "T": 100000000,
+    "d0_grid": {},
+    "d0_values": [
+      200, 300, 450, 670, 1000, 1500, 2200, 3300,
+      4742, 6664, 9366, 13163, 18500, 26000
+    ],
+    "seeds": [101, 202],
+    "weights": {
+      "heaps": 0.5,
+      "zipf": 0.5
+    },
+    "heaps_points": 80,
+    "heaps_spacing": "log",
+    "rank_min": 10,
+    "rank_max": 5000,
+    "rank_points": 80,
+    "rank_spacing": "log"
+  }
+}

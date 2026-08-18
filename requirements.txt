@@ -1,0 +1,17 @@
+# Python dependencies for the SPGC cognitive-limits reproduction pipeline.
+# Tested with Python 3.10+.
+#
+# This list is deliberately short. The pipeline does its own tokenisation
+# (src/text_norm.py) and builds the co-occurrence networks from plain dicts, so
+# it needs no NLP or graph library.
+#
+# Four tools outside pip are also needed; see the Requirements table in
+# README.md. In short: curl (notebook 1), gcc and make (notebook 8), and the
+# zstd command-line tool (notebook 8, every simulated trajectory is written and
+# read through it). latex + dvipng are optional and only affect figure text.
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+# Notebooks
+jupyter>=1.0

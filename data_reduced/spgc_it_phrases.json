@@ -1,0 +1,261 @@
+{
+ "lang": "it",
+ "n_books": 710,
+ "n_books_missing": 10,
+ "n_tokens": 42876256,
+ "phrases": [
+  {
+   "concept": "water",
+   "surface": "acqua",
+   "tokens": [
+    "acqua"
+   ],
+   "k": 1,
+   "count": 3291
+  },
+  {
+   "concept": "bottle",
+   "surface": "bottiglia",
+   "tokens": [
+    "bottiglia"
+   ],
+   "k": 1,
+   "count": 559
+  },
+  {
+   "concept": "bus",
+   "surface": "autobus",
+   "tokens": [
+    "autobus"
+   ],
+   "k": 1,
+   "count": 0
+  },
+  {
+   "concept": "water bottle",
+   "surface": "bottiglia d'acqua",
+   "tokens": [
+    "bottiglia",
+    "d",
+    "acqua"
+   ],
+   "k": 3,
+   "count": 3
+  },
+  {
+   "concept": "railway station",
+   "surface": "stazione",
+   "tokens": [
+    "stazione"
+   ],
+   "k": 1,
+   "count": 1402
+  },
+  {
+   "concept": "post office",
+   "surface": "ufficio postale",
+   "tokens": [
+    "ufficio",
+    "postale"
+   ],
+   "k": 2,
+   "count": 17
+  },
+  {
+   "concept": "dining room",
+   "surface": "sala da pranzo",
+   "tokens": [
+    "sala",
+    "da",
+    "pranzo"
+   ],
+   "k": 3,
+   "count": 275
+  },
+  {
+   "concept": "bedroom",
+   "surface": "camera da letto",
+   "tokens": [
+    "camera",
+    "da",
+    "letto"
+   ],
+   "k": 3,
+   "count": 302
+  },
+  {
+   "concept": "birthday",
+   "surface": "compleanno",
+   "tokens": [
+    "compleanno"
+   ],
+   "k": 1,
+   "count": 27
+  },
+  {
+   "concept": "handkerchief",
+   "surface": "fazzoletto",
+   "tokens": [
+    "fazzoletto"
+   ],
+   "k": 1,
+   "count": 1031
+  },
+  {
+   "concept": "looking glass",
+   "surface": "specchio",
+   "tokens": [
+    "specchio"
+   ],
+   "k": 1,
+   "count": 1685
+  },
+  {
+   "concept": "churchyard",
+   "surface": "cimitero",
+   "tokens": [
+    "cimitero"
+   ],
+   "k": 1,
+   "count": 745
+  },
+  {
+   "concept": "sunrise",
+   "surface": "alba",
+   "tokens": [
+    "alba"
+   ],
+   "k": 1,
+   "count": 545
+  },
+  {
+   "concept": "moonlight",
+   "surface": "chiaro di luna",
+   "tokens": [
+    "chiaro",
+    "di",
+    "luna"
+   ],
+   "k": 3,
+   "count": 150
+  },
+  {
+   "concept": "steam boat",
+   "surface": "battello a vapore",
+   "tokens": [
+    "battello",
+    "a",
+    "vapore"
+   ],
+   "k": 3,
+   "count": 44
+  },
+  {
+   "concept": "fireplace",
+   "surface": "camino",
+   "tokens": [
+    "camino"
+   ],
+   "k": 1,
+   "count": 700
+  },
+  {
+   "concept": "armchair",
+   "surface": "poltrona",
+   "tokens": [
+    "poltrona"
+   ],
+   "k": 1,
+   "count": 1392
+  },
+  {
+   "concept": "lighthouse",
+   "surface": "faro",
+   "tokens": [
+    "faro"
+   ],
+   "k": 1,
+   "count": 411
+  },
+  {
+   "concept": "schoolmaster",
+   "surface": "maestro di scuola",
+   "tokens": [
+    "maestro",
+    "di",
+    "scuola"
+   ],
+   "k": 3,
+   "count": 99
+  },
+  {
+   "concept": "coachman",
+   "surface": "cocchiere",
+   "tokens": [
+    "cocchiere"
+   ],
+   "k": 1,
+   "count": 661
+  },
+  {
+   "concept": "glass of wine",
+   "surface": "bicchiere di vino",
+   "tokens": [
+    "bicchiere",
+    "di",
+    "vino"
+   ],
+   "k": 3,
+   "count": 121
+  },
+  {
+   "concept": "new year",
+   "surface": "capodanno",
+   "tokens": [
+    "capodanno"
+   ],
+   "k": 1,
+   "count": 10
+  },
+  {
+   "concept": "horse race",
+   "surface": "corsa di cavalli",
+   "tokens": [
+    "corsa",
+    "di",
+    "cavalli"
+   ],
+   "k": 3,
+   "count": 8
+  },
+  {
+   "concept": "bus stop",
+   "surface": "fermata dell'autobus",
+   "tokens": [
+    "fermata",
+    "dell",
+    "autobus"
+   ],
+   "k": 3,
+   "count": 0
+  },
+  {
+   "concept": "motor car",
+   "surface": "automobile",
+   "tokens": [
+    "automobile"
+   ],
+   "k": 1,
+   "count": 232
+  },
+  {
+   "concept": "telephone",
+   "surface": "telefono",
+   "tokens": [
+    "telefono"
+   ],
+   "k": 1,
+   "count": 92
+  }
+ ]
+}
